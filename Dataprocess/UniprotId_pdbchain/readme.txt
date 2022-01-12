@@ -1,0 +1,1 @@
+All proteins and structural files involved in Inter-protein PTM cross-talk.
