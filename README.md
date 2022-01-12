@@ -7,9 +7,19 @@ sequence structure feature pre-processed sub-network (Pre-W net), PPIs and cross
 
 # System requirement
 PPICT is develpoed under Linux environment with:
-* Matlab  (R2019a)
-* Python (3.7.0): keras==2.4.3, networkx==2.6.3, scikit-learn==0.24.2, numpy==1.19.5, tensorflow==2.4.1, biopython==1.78 and prody==2.0 modules
-* R (4.0.3): bio3d==2.4-1, igraph==1.2.6, and stringr==1.4.0 modules
+* Matlab (R2019a)
+* Python (3.7.0):
+    - keras==2.4.3
+    - networkx==2.6.3
+    - scikit-learn==0.24.2
+    - numpy==1.19.5
+    - tensorflow==2.4.1
+    - biopython==1.78
+    - prody==2.0
+* R (4.0.3):
+    - bio3d==2.4-1
+    - igraph==1.2.6
+    - stringr==1.4.0
 
 # Dataset and feature
 We provide the datasets, and pre-processed features here for those interested in reproducing our paper.
