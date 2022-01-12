@@ -1,0 +1,1 @@
+The downloaded PDB structure file（RCSB and Alphafold） exists in the PDB file to facilitate enm and BIO3D computational structure features

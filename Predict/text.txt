@@ -1,0 +1,17 @@
+P51692	Y699	phosphorylation	P52333	Y904	phosphorylation
+P51692	Y699	phosphorylation	P52333	Y939	phosphorylation
+P31749	S473	phosphorylation	P35232	T258	phosphorylation
+P31749	T308	phosphorylation	P35232	T258	phosphorylation
+O75528	K109	acetylation	Q09472	S1834	phosphorylation
+Q09472	K1024	Acetylation	Q8IXJ6	S25	Phosphorylation
+O43318	Y206	Phosphorylation	Q15750	S452	Phosphorylation
+P31749	S246	Phosphorylation	P35232	T108	Phosphorylation
+P84243	K38	Methylation	Q92793	S1382	Phosphorylation
+Q05513	T560	Phosphorylation	Q9UKX2	S1921	Phosphorylation
+Q09472	K1570	Acetylation	Q8IXJ6	S25	Phosphorylation
+P62805	Y89	Phosphorylation	P84243	S32	Phosphorylation
+P62805	T81	Phosphorylation	P84243	S32	Phosphorylation
+P07948	Y32	Phosphorylation	P43405	Y631	Phosphorylation
+O75528	K418	Acetylation	Q09472	S831	Phosphorylation
+O43318	S439	Phosphorylation	Q15750	S452	Phosphorylation
+P06213	S1354	Phosphorylation	P35568	S348	Phosphorylation
