@@ -20,6 +20,7 @@ PPICT is develpoed under Linux environment with:
     - bio3d==2.4-1
     - igraph==1.2.6
     - stringr==1.4.0
+* Clustal-omega: http://www.clustal.org/omega/clustal-omega-1.2.2-win64.zip (You need to unzip the package into this ./Dataprocess/clustal-omega folder after downloading it.)
 
 # Dataset and feature
 We provide the datasets, and pre-processed features here for those interested in reproducing our paper.
